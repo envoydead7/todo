@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c0c516-2b11-4dd2-bdbe-ba5c6f5c6848" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/addTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/deleteTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/readTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/updateTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/connectDB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema/todoSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="e5c0c516-2b11-4dd2-bdbe-ba5c6f5c6848" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734342835499</updated>
       <workItem from="1734342836695" duration="4605000" />
-      <workItem from="1734349812362" duration="5982000" />
+      <workItem from="1734349812362" duration="6330000" />
     </task>
     <servers />
   </component>
