@@ -58,5 +58,6 @@ To run the application, use the following command:
 
 ```bash
 todo add, read, update, delete
+```
 ![image](https://github.com/user-attachments/assets/dacb1557-d498-4f37-a7bb-666576897528)
 
